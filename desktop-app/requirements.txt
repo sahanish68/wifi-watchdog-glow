@@ -1,0 +1,9 @@
+PyQt6>=6.6
+pyqtgraph>=0.13
+scapy>=2.5
+psutil>=5.9
+speedtest-cli>=2.1
+matplotlib>=3.8
+reportlab>=4.0
+mac-vendor-lookup>=0.1.12
+dnspython>=2.4
